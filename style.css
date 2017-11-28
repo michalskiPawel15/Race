@@ -1,0 +1,22 @@
+body{
+	background-color:#000000;
+}
+*{
+	margin:0;
+	padding:0;
+}
+.canvas_wrap{
+	display:block;
+	margin:0 auto;
+}
+.canvas_wrap>*{
+	display:block;
+	margin:0 auto;
+}
+.canvas_wrap>button{
+	font-family:Courier;
+	font-size:30px;
+	font-weight:bold;
+	border:none;
+	background-color:#ffffff;
+}
